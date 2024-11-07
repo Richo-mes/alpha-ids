@@ -29,5 +29,6 @@ This project is a Network Intrusion Detection System (NIDS) that monitors networ
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/yonatanbest/AlphaIPS.git
-cd AlphaIPS
+git clone https://github.com/Richo-mes/alpha-ips.git
+
+
