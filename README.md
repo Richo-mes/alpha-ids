@@ -24,7 +24,6 @@ The goal of this project is to build a Network Intrusion Detection System (NIDS)
 - Python 3.6 or higher
 - `pip` for package management
 
-## How it works 
 ## Project Modules
 
 ### - **Network Traffic Analysis**
@@ -57,7 +56,6 @@ The goal of this project is to build a Network Intrusion Detection System (NIDS)
 **Description**: The documentation task involves writing clear and concise technical documentation for all components of the NIDS system. This includes detailing how each part of the system functions, how to install and configure the NIDS, as well as providing a user guide for using the system. Additionally, documentation must include developer guides for contributing to the project, troubleshooting steps, and any known limitations or issues. Proper documentation will ensure that future users and developers can easily understand and work with the NIDS.
 
 
-````````````````````
 ## Project Guide
 
 This guide provides an overview of the project structure, workflow, and best practices for contributing to the Network Intrusion Detection System (NIDS) project.
@@ -73,7 +71,8 @@ The project is divided into several key modules, each responsible for different 
 - **Frontend & Dashboard**: Provides a user interface and dashboard for visualizing network data and detection results.
 - **API**: Develops an API for interacting with the NIDS and integrating with other systems.
 - **Documentation**: Maintains comprehensive documentation for the project.
-
+  
+````````````````````
 ### Clone the Repository
 
 ```bash
